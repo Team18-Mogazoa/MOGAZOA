@@ -35,15 +35,27 @@
 ## ⭐️ 프로젝트 구성
 
 1. 기술 스택
+- Language & Framework
 <div align=left>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
 </div>  
 <br />
 
+- Style
+<div align=left>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+</div>  
+<br />
+
+- Library
+<div align=left>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next auth-000000?style=flat&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white">
+</div>  
+<br />
 2. 디렉토리 구조
 
 ```
@@ -92,3 +104,21 @@
  ┃ ┣ 📜layout.tsx
  ┃ ┗ 📜page.tsx
 ```
+3. 화면 구성
+   - 홈페이지
+     ![스크린샷 2024-06-25 00 39 02](https://github.com/Team18-Mogazoa/MOGAZOA/assets/155204900/1e212b89-ee0c-4534-8670-f9bed69e71c0)
+
+   - 로그인
+     ![스크린샷 2024-06-25 00 40 36](https://github.com/Team18-Mogazoa/MOGAZOA/assets/155204900/f384be34-6af2-4b4b-b536-39d3cecbbadb)
+
+   - 회원가입
+     ![스크린샷 2024-06-25 00 40 45](https://github.com/Team18-Mogazoa/MOGAZOA/assets/155204900/5a4be506-c662-4ea6-9633-b0e69cde01c5)
+
+   - 비교하기
+     ![스크린샷 2024-06-25 00 40 22](https://github.com/Team18-Mogazoa/MOGAZOA/assets/155204900/489f1143-0a01-487a-a6b6-a5b60b41feba)
+
+   - 상품상세
+     ![스크린샷 2024-06-25 00 40 07](https://github.com/Team18-Mogazoa/MOGAZOA/assets/155204900/5b826219-2017-4835-871a-230e01727046)
+
+   - 프로필
+     ![스크린샷 2024-06-25 00 39 46](https://github.com/Team18-Mogazoa/MOGAZOA/assets/155204900/68e2f171-79d5-41f1-a0a4-95895e79fa96)
