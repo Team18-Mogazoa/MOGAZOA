@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MOGAZOA%204-18&fontSize=80)
 
 
-# MOGAZOA 4기 18팀
 
 ## 🔥 프로젝트 소개 - MOGAZOA
 음악, 식당, 영화, 강의, 여행지, 전자기기, 호텔, 와인, 옷, 앱 등 다양한 분야의 상품을 리뷰하는 플랫폼
